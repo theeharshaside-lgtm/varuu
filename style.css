@@ -276,4 +276,21 @@ canvas {
         top: -20%;
         transform: rotate(360deg);
     }
+
+}
+
+/* =========================
+   VIDEO TEXT (ABOVE VIDEO)
+========================= */
+.video-text {
+    margin: 15px auto 20px;
+    padding: 15px;
+    max-width: 90%;
+    background: #fff0f6;
+    border-radius: 15px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #444;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    font-weight: 600;
 }
